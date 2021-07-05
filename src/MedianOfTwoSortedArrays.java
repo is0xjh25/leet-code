@@ -8,6 +8,7 @@ Jul.4th.2021
  */
 
 public class MedianOfTwoSortedArrays {
+
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
 
         int size1 = nums1.length, size2 = nums2.length;
