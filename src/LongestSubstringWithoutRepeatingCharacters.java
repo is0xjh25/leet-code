@@ -9,6 +9,7 @@ Jul.3rd.2021
 import java.util.ArrayList;
 
 public class LongestSubstringWithoutRepeatingCharacters {
+
     public int lengthOfLongestSubstring(String s) {
 
         ArrayList<Character> dict = new ArrayList<>();
