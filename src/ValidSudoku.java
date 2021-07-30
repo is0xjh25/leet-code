@@ -9,8 +9,6 @@ Yun-Chi Hsiao
 Jul.26th.2021
 */
 
-import java.util.HashSet;
-
 public class ValidSudoku {
 
     public boolean isValidSudoku(char[][] board) {

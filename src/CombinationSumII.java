@@ -25,7 +25,7 @@ public class CombinationSumII {
         if (target < 0)
             return ;
         if (target == 0) {
-            lists.add(new ArrayList(temp));
+            lists.add(new ArrayList<>(temp));
             return ;
         } else {
             for(int i=start;i<nums.length;i++) {

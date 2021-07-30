@@ -13,7 +13,7 @@ public class GenerateParentheses {
 
     public List<String> generateParenthesis(int n) {
 
-        List<String> ans = new ArrayList();
+        List<String> ans = new ArrayList<>();
 
         if (n == 0) {
             ans.add("");
